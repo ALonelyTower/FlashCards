@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue;
+}
+
+.jumbotron {
+    background-color: #588DC6;
+    border-color: solid white;
+}
+
+#header-title {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 2.5vw;
+}
+
+.score-column {
+    text-align: center;
+}
+
+.header-title {
+    text-align: left;
+}
+
+.flashcard {
+    background-color: white;
+    text-align: center;
+    padding: 250px;
+    border: solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#flashcard-text {
+    font-size: 3vw; 
+}
+
+.tally {
+    text-align: center;
+}
+
+.tally-button {
+    padding: 15px;
+    margin: 0 50px;
+    width: 200px;
+    border-radius: 4px;
+}
